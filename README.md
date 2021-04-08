@@ -1,3 +1,3 @@
 # hotel_structure
 
-### Small hotel structure using Object Orient in C#.
+### Small hotel structure using Object Oriented in C#.
